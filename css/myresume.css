@@ -27,6 +27,7 @@ button,select {
 }
 
 .bg-primary{
+    background-color: #0080f0;
     background-image: url("../img/fresh-snow (1).png");
 }
 
