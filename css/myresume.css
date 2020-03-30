@@ -27,7 +27,6 @@ button,select {
 }
 
 .bg-primary{
-    background-color: #0080f0!important;
     background-image: url("../img/fresh-snow (1).png");
 }
 
@@ -40,3 +39,7 @@ h1 {
     line-height: 5.5rem;
 }
 
+.bg-primary{
+	 background-color: #0080f0!important;
+}
+	
