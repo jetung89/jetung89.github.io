@@ -43,14 +43,7 @@ h1 {
 	 background-color: #0080f0!important;
 }
 	
-a:-webkit-any-link {
-    cursor: pointer;
-
--webkit-tap-highlight-color: transparent;
-}
-
-
-a:active {
+.nav-link.active{
          color:#ffffff
-
+}
 
