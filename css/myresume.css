@@ -51,3 +51,10 @@ a:-webkit-any-link {
     display: block;
     padding: .5rem 1rem;
 }
+-webkit-tap-highlight-color: transparent;
+}
+
+
+
+
+
