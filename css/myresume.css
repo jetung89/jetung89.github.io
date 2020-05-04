@@ -43,3 +43,9 @@ h1 {
 	 background-color: #0080f0!important;
 }
 
+.card-1 {
+    width: 260px;
+    height: 250px;
+    border: 2px dotted #8c1ed7;
+    border-radius: 0 0 10% 10%;
+    margin: 6px;
