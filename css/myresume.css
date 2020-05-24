@@ -51,5 +51,9 @@ h1 {
     margin: 20px;
 	
 .table thead th {
-    border: 2px solid ##b3d7ff;
-}
+    border: 2px solid #343a40
+	}
+
+th {
+    text-align: center;
+    background-color: #ed8c93;
