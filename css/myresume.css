@@ -49,3 +49,7 @@ h1 {
     border: 4px dotted #8c1ed7;
     border-radius: 0 0 10% 10%;
     margin: 20px;
+	
+.table thead th {
+    border: 2px solid ##b3d7ff;
+}
